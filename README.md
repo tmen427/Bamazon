@@ -6,13 +6,13 @@ For this assignment we wanted to create an simplifed version of an Amazon like a
 
 
 
-![alt text](/images/Image1.png)
+![alt text](/Images/Image1.png)
 Choose the i.d. of an item that you want and enter the quantity. If the quantity is less then or equal to the amount that is available then the program calculates the price of items bought. 
 
 
 
 
-![alt text](/images/Image2.png)
+![alt text](/Images/Image2.png)
 If you want to buy more items than are available the program says, 'Insufficent quantity! Buy Something else'!
 
 
